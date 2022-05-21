@@ -2,14 +2,16 @@
 🍹🥃☕🕺🎤🎮♠🚲
 
 
- <summary>Tech Stack</summary>
+<h3 align='center'>What I'm learning</p>
    <p><p align='center'>
- I'm learning <img src="https://img.shields.io/badge/Java-E42C2E?style=flat-square&logo=Java&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Java-E42C2E?style=flat-square&logo=Java&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Spring-6AAE3D?style=flat-square&logo=Spring&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Spring Boot-6AAE3D?style=flat-square&logo=Spring+Boot&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Spring Security-6AAE3D?style=flat-square&logo=Spring+Security&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Node.JS-7CB719?style=flat-square&logo=Node.JS&logoColor=black"/> </a>
+ <img src="https://img.shields.io/badge/HTML-DD4B25?style=flat-square&logo=HTML5&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/CSS-0077C3F?style=flat-square&logo=CSS3&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Tensorflow-DA5427?style=flat-square&logo=Tensorflow&logoColor=252525"/></a>
  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
@@ -25,6 +27,7 @@
  <img src="https://img.shields.io/badge/Apache Hive-000000?style=flat-square&logo=Apache+Hive&logoColor=F7F725"/></a>
  <img src="https://img.shields.io/badge/Apache Spark-DB571B?style=flat-square&logo=Spark&logoColor=black"/></a>
 
+ <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=HTML5&logoColor=black"/> </a>
 <br>
 <br>
 
