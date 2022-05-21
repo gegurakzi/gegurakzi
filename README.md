@@ -1,16 +1,22 @@
 
+<p align='center'>
 🍹🥃☕🕺🎤🎮♠🚲
+</p>
 
-
+<h3 align='center'>
+   
 [![trophy](https://github-profile-trophy.vercel.app/?username=gegurakzi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![gegurakzi's github stats](https://github-readme-stats.vercel.app/api?username=gegurakzi&show_icons=true)
+   
 [![gegurakzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gegurakzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gegurakzi)
-
+   
+</h3>
 <br> 
 
-<h3 align='center'>What I'm learning</p>
-   <p><p align='center'>
+
+<h3 align='center'>What I'm learning</h3>
+<p align='center'>
  <img src="https://img.shields.io/badge/Java-E42C2E?style=flat-square&logo=Java&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Spring-6AAE3D?style=flat-square&logo=Spring&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Spring Boot-6AAE3D?style=flat-square&logo=Spring+Boot&logoColor=white"/> </a>
@@ -33,12 +39,11 @@
  <img src="https://img.shields.io/badge/Apache Hadoop-63C6F7?style=flat-square&logo=Apache+Hadoop&logoColor=F7F725"/></a>
  <img src="https://img.shields.io/badge/Apache Hive-000000?style=flat-square&logo=Apache+Hive&logoColor=F7F725"/></a>
  <img src="https://img.shields.io/badge/Apache Spark-DB571B?style=flat-square&logo=Spark&logoColor=black"/></a>
-
  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/> </a>
-
+</p>
 <br>
 <br>
-
+<p align='center'>
 Blog https://malachai.tistory.com/
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgegurakzi%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
