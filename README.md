@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/JavaScript-373737?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a><br>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C++&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=cpp&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/AWS-4479A1?style=flat-square&logo=AWS&logoColor=white"/></a><br>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
  <img src="https://img.shields.io/badge/Linux-005571?style=flat-square&logo=Linux&logoColor=white"/></a>
