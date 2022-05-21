@@ -2,6 +2,13 @@
 🍹🥃☕🕺🎤🎮♠🚲
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gegurakzi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![gegurakzi's github stats](https://github-readme-stats.vercel.app/api?username=gegurakzi&show_icons=true)
+[![gegurakzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gegurakzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gegurakzi)
+
+<br> 
+
 <h3 align='center'>What I'm learning</p>
    <p><p align='center'>
  <img src="https://img.shields.io/badge/Java-E42C2E?style=flat-square&logo=Java&logoColor=white"/> </a>
@@ -28,15 +35,9 @@
  <img src="https://img.shields.io/badge/Apache Spark-DB571B?style=flat-square&logo=Spark&logoColor=black"/></a>
 
  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/> </a>
+
 <br>
 <br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gegurakzi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![gegurakzi's github stats](https://github-readme-stats.vercel.app/api?username=gegurakzi&show_icons=true)
-[![gegurakzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gegurakzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gegurakzi)
-
-<br> 
 
 Blog https://malachai.tistory.com/
 
