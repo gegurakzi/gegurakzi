@@ -4,11 +4,10 @@
 
  <summary>Tech Stack</summary>
    <p><p align='center'>
- I'm learning <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Spring-3776AB?style=flat-square&logo=Spring&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Spring Boot-3776AB?style=flat-square&logo=SpringBoot&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Thymeleaf-3776AB?style=flat-square&logo=Thymeleaf&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/JSP-3776AB?style=flat-square&logo=JSP&logoColor=white"/> </a>
+ I'm learning <img src="https://img.shields.io/badge/Java-E42C2E?style=flat-square&logo=Java&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Spring-6AAE3D?style=flat-square&logo=Spring&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Tensorflow-DA5427?style=flat-square&logo=Tensorflow&logoColor=252525"/></a>
  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
