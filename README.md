@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/Thymeleaf-3776AB?style=flat-square&logo=Thymeleaf&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/JSP-3776AB?style=flat-square&logo=JSP&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Tensorflow-150458?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Tensorflow-DA5427?style=flat-square&logo=Tensorflow&logoColor=252525"/></a>
  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
