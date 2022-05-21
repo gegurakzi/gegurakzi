@@ -6,23 +6,24 @@
    <p><p align='center'>
  I'm learning <img src="https://img.shields.io/badge/Java-E42C2E?style=flat-square&logo=Java&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Spring-6AAE3D?style=flat-square&logo=Spring&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Spring Boot-6AAE3D?style=flat-square&logo=Spring+Boot&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Spring Security-6AAE3D?style=flat-square&logo=Spring+Security&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Tensorflow-DA5427?style=flat-square&logo=Tensorflow&logoColor=252525"/></a>
  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/JavaScript-373737?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a><br>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=cpp&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/AWS-4479A1?style=flat-square&logo=AWS&logoColor=white"/></a><br>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
- <img src="https://img.shields.io/badge/Linux-005571?style=flat-square&logo=Linux&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/CentOS-005571?style=flat-square&logo=CentOS&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Docker-005571?style=flat-square&logo=Docker&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Hadoop-005571?style=flat-square&logo=Hadoop&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/ZooKeeper-005571?style=flat-square&logo=ZooKeeper&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Hive-005571?style=flat-square&logo=Hive&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Spark-005571?style=flat-square&logo=Spark&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/C-3D46C6?style=flat-square&logo=C&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/C++-015697?style=flat-square&logo=C%2B%2B&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a><br>
+ <img src="https://img.shields.io/badge/MySQL-015D87?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
+ <img src="https://img.shields.io/badge/Linux-020202?style=flat-square&logo=Linux&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Apache Hadoop-63C6F7?style=flat-square&logo=Apache+Hadoop&logoColor=F7F725"/></a>
+ <img src="https://img.shields.io/badge/Apache Hive-000000?style=flat-square&logo=Apache+Hive&logoColor=F7F725"/></a>
+ <img src="https://img.shields.io/badge/Apache Spark-DB571B?style=flat-square&logo=Spark&logoColor=black"/></a>
 
 <br>
 <br>
