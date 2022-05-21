@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Apache Hive-000000?style=flat-square&logo=Apache+Hive&logoColor=F7F725"/></a>
  <img src="https://img.shields.io/badge/Apache Spark-DB571B?style=flat-square&logo=Spark&logoColor=black"/></a>
 
- <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=HTML5&logoColor=black"/> </a>
+ <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion5&logoColor=black"/> </a>
 <br>
 <br>
 
